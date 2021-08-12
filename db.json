@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "name": "James Kamau",
+      "email": "james@gmail.com",
+      "contact": "9484785787",
+      "address": "France",
+      "id": 3
+    },
+    {
+      "name": "Brian Kamau",
+      "email": "brngatarwa@gmail.com",
+      "contact": "0727642047",
+      "address": "Karen",
+      "id": 4
+    },
+    {
+      "name": "Mary Joseph",
+      "email": "maryjose@gmail.com",
+      "contact": "2543222222",
+      "address": "Kenya",
+      "id": 5
+    },
+    {
+      "name": "Celeste Wanga",
+      "email": "celestwanga@micro.com",
+      "contact": "02345690",
+      "address": "Kilimani Central",
+      "id": 8
+    },
+    {
+      "name": "Oluoch",
+      "email": "oluoch@coke.co.ke",
+      "contact": "6533333",
+      "address": "Otiende",
+      "id": 9
+    }
+  ]
+}
